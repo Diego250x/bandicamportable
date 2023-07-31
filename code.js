@@ -1,11 +1,5 @@
 <script>
-const js_thml = () => {
-	let code = "";
-	code += "<a href=\"http://srt.am/bdsjsH\">Example</a>\n";
-	return code;
-}
+info="<a href=&#34;https://mikelauncher-apkzone.blogspot.com/&#34;>Hi</a>"
 
-
-document.getElementById("js_html").innerText = js_thml();
-document.getElementById("html-text").value = js_thml();
+document.write(info)
 </script>
